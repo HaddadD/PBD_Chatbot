@@ -1,0 +1,31 @@
+# Ignore node files
+node_modules/
+.env
+*.log
+
+# Ignore macOS junk
+.DS_Store
+
+# Ignore heavy folders
+ETSY/
+Shopify/
+Car Portraits/
+People Portraits/
+Pet Portraits/
+Products/
+Home Portraits/
+MapsByDan/
+Instagram Page/
+Invoices/
+Specefic Requests/
+Templates/
+115547 - Newfie - ryker_edited.jpg
+436788582_414183021236411_5599371517812504512_n.jpg
+436935279_414182564569790_7812746578011093970_n.png
+customers_template-NASuaO10VLl3.csv
+logo.png
+Page 23.png
+simplemaps_canadacities_basicv1.7/
+
+
+
